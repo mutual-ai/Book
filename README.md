@@ -14,7 +14,7 @@
 
    <img src="imgs/南瓜书.jpg" width = "600" div align=center />
 
-2. 《统计学习方法》李航，[第一版](books/ML/2012-李航-统计学习方法-第一版.pdf)，[第二版](books/ML/李航 统计学习方法 第二版.pdf)
+2. 《统计学习方法》李航，[第一版](books/ML/2012-李航-统计学习方法-第一版.pdf)，[第二版](books/ML/李航-统计学习方法-第二版.pdf)
 
    <img src="imgs/统计学习方法-第二版.jpg" width = "600" div align=center />
 
