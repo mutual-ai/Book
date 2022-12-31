@@ -64,7 +64,7 @@
 
 4. 《Easy-RL》（也叫蘑菇书）DataWhale，[PDF](books/RL/EasyRL_v.1.0.4.pdf) 
 
-5. <img src="imgs/EasyRL_v.1.0.4_00.png" width = "600" div align=center />
+   <img src="imgs/EasyRL_v.1.0.4_00.png" width = "600" div align=center />
 
 6. 《深入浅出强化学习：原理入门》郭宪 方勇纯，[PDF](books/RL/郭宪-方勇纯-深入浅出强化学习：原理入门.pdf) 
 
@@ -78,7 +78,7 @@
 
    <img src="imgs/陈世勇, 苏博览，杨敬文-深度强化学习核心算法与应用_00.png" width = "600" div align=center />
 
-9. 《强化学习》威宁, 赵地等译，[PDF](books/RL/威宁, 赵地-强化学习.pdf)  
+9. 《强化学习》威宁, 赵地等译，[PDF](books/RL/威宁-赵地-强化学习.pdf)  
 
    <img src="imgs/威宁, 赵地-强化学习_00.png" width = "600" div align=center />
 
