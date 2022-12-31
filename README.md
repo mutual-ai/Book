@@ -1,6 +1,6 @@
 # <center>学习建议</center>
 
-[TOC]
+本仓库为网络收集资料且自己学习所用，不用做任何商业用途，若有侵犯到相关版权，请联系删除。
 
 ## 1. 书籍列表
 
@@ -40,7 +40,7 @@
 
    <img src="imgs/蒲公英书.jpg" width = "600" div align=center />
 
-4. 《Hands-On Machine Learning with Scikit-Learn Keras, and TensorFlow》Aurélien Géron，[原版PDF](books/DL/2019-Hands-On_Machine_Learning_with_Scikit-Learn_Keras_and_TensorFlow-第二版.pdf)，[中文PDF](books/DL/机器学习实战-基于Scikit-Learn_Keras和TensorFlow-原书第2版 (Aurélien_Géron) .pdf) 
+4. 《Hands-On Machine Learning with Scikit-Learn Keras, and TensorFlow》Aurélien Géron，[原版PDF](books/DL/2019-Hands-On_Machine_Learning_with_Scikit-Learn_Keras_and_TensorFlow-第二版.pdf)，[中文PDF](books/DL/机器学习实战-基于Scikit-Learn_Keras和TensorFlow-原书第2版-Aurélien_Géron.pdf) 
 
    <img src="imgs/2019-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow-第二版_00.png" width = "600" div align=center />
 
@@ -60,7 +60,7 @@
 
    <img src="imgs/王树森-深度强化学习.jpg" width = "600" div align=center />
 
-3. 《Deep Reinforcement Learning  Hands-On: Apply modern RL methods to practical problems of chatbots,  robotics, discrete optimization, web automation, and more, 2nd Edition》Maxim Lapan，[原版PDF](books/RL/Deep.Reinforcement.Learning.Han.-.Maxim.Lapan.pdf)，[中文PDF](books/RL/深度强化学习实践(原书第2版)-by-(俄罗斯)马克西姆·拉潘(Maxim Lapan).pdf)
+3. 《Deep Reinforcement Learning  Hands-On: Apply modern RL methods to practical problems of chatbots,  robotics, discrete optimization, web automation, and more, 2nd Edition》Maxim Lapan，[原版PDF](books/RL/Deep.Reinforcement.Learning.Han.-.Maxim.Lapan.pdf)，[中文PDF](books/RL/深度强化学习实践-原书第2版-by-俄罗斯-马克西姆_拉潘-Maxim_Lapan.pdf)
 
 4. 《Easy-RL》（也叫蘑菇书）DataWhale，[PDF](books/RL/EasyRL_v.1.0.4.pdf) 
 
