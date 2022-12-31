@@ -52,7 +52,7 @@
 
 ### 1.3 强化学习
 
-1. 《Reinforcement Learning: An Introduction》（强化学习简介，强化学习导论，强化学习(第二版)）Sutton，[英文PDF](books/RL/RLbook2020.pdf)，[中文PDF(扫描版)](books/RL/《强化学习  第2版》.pdf) 
+1. 《Reinforcement Learning: An Introduction》（强化学习简介，强化学习导论，强化学习(第二版)）Sutton，[英文PDF](books/RL/RLbook2020.pdf)，[中文PDF(扫描版)](books/RL/强化学习-第2版.pdf) 
 
    <img src="imgs/RLbook2020_00.png" width = "600" div align=center />
 
