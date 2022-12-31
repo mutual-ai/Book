@@ -6,7 +6,7 @@
 
 ### 1.1 机器学习
 
-1. 《机器学习》（又名《西瓜书》）周志华，[PDF](books/ML/周志华-机器学习 Machine Learning.pdf)
+1. 《机器学习》（又名《西瓜书》）周志华，[PDF](books/ML/周志华-机器学习.pdf)
 
    <img src="imgs/西瓜书.jpg" width = "600" div align=center />
 
@@ -22,13 +22,13 @@
 
    <img src="imgs/2006-Bishop-Pattern-Recognition-and-Machine-Learning_00.png" width = "600" div align=center />
 
-4. 《Machine Learning in Action》（机器学习实战）Peter Harrington ，[原版PDF](books/ML/Machine Learning in Action.pdf)，[中文PDF](books/ML/Peter Harrington-机器学习实战.pdf)
+4. 《Machine Learning in Action》（机器学习实战）Peter Harrington ，[原版PDF](books/ML/Machine-Learning-in-Action.pdf)，[中文PDF](books/ML/Peter-Harrington-机器学习实战.pdf)
 
    <img src="imgs/Machine Learning in Action_00.png" width = "600" div align=center />
 
 ### 1.2 深度学习
 
-1. 《Deep Learning》（深度学习，又名花书）Ian Goodfellow，[原版PDF](books/DL/2017-MIT-Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning.pdf)，[中文PDF](books/DL/2017-dlbook_cn_v0.5-beta.pdf)
+1. 《Deep Learning》（深度学习，又名花书）Ian Goodfellow，[原版PDF](books/DL/2017-MIT-Ian_Goodfellow-Yoshua_Bengio-Aaron_Courville-Deep_Learning.pdf)，[中文PDF](books/DL/2017-dlbook_cn_v0.5-beta.pdf)
 
    <img src="imgs/花书.jpeg" width = "800" div align=center />
 
@@ -40,11 +40,11 @@
 
    <img src="imgs/蒲公英书.jpg" width = "600" div align=center />
 
-4. 《Hands-On Machine Learning with Scikit-Learn Keras, and TensorFlow》Aurélien Géron，[原版PDF](books/DL/2019-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow-第二版.pdf)，[中文PDF](books/DL/机器学习实战：基于Scikit-Learn、Keras和TensorFlow：原书第2版 (Aurélien Géron) .pdf) 
+4. 《Hands-On Machine Learning with Scikit-Learn Keras, and TensorFlow》Aurélien Géron，[原版PDF](books/DL/2019-Hands-On_Machine_Learning_with_Scikit-Learn_Keras_and_TensorFlow-第二版.pdf)，[中文PDF](books/DL/机器学习实战-基于Scikit-Learn_Keras和TensorFlow-原书第2版 (Aurélien_Géron) .pdf) 
 
    <img src="imgs/2019-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow-第二版_00.png" width = "600" div align=center />
 
-5. 《Deep Learning with Python》François Chollet，[原版PDF](books/DL/Francois Chollet-Deep Learning with Python.pdf)，[中文PDF](books/DL/Python深度学习.pdf)  
+5. 《Deep Learning with Python》François Chollet，[原版PDF](books/DL/Francois_Chollet-Deep_Learning_with_Python.pdf)，[中文PDF](books/DL/Python深度学习.pdf)  
 
    <img src="imgs/Francois Chollet-Deep Learning with Python_00.png" width = "600" div align=center />
 
@@ -60,7 +60,7 @@
 
    <img src="imgs/王树森-深度强化学习.jpg" width = "600" div align=center />
 
-3. 《Deep Reinforcement Learning  Hands-On: Apply modern RL methods to practical problems of chatbots,  robotics, discrete optimization, web automation, and more, 2nd Edition》Maxim Lapan
+3. 《Deep Reinforcement Learning  Hands-On: Apply modern RL methods to practical problems of chatbots,  robotics, discrete optimization, web automation, and more, 2nd Edition》Maxim Lapan，[原版PDF](books/RL/Deep.Reinforcement.Learning.Han.-.Maxim.Lapan.pdf)，[中文PDF](books/RL/深度强化学习实践(原书第2版)-by-(俄罗斯)马克西姆·拉潘(Maxim Lapan).pdf)
 
 4. 《Easy-RL》（也叫蘑菇书）DataWhale，[PDF](books/RL/EasyRL_v.1.0.4.pdf) 
 
@@ -74,7 +74,7 @@
 
    <img src="imgs/29259347-2_u_6.jpg" width = "600" div align=center />
 
-8. 《深度强化学习核心算法与应用》陈世勇, 苏博览，杨敬文，[PDF](books/RL/陈世勇, 苏博览，杨敬文-深度强化学习核心算法与应用.pdf) 
+8. 《深度强化学习核心算法与应用》陈世勇, 苏博览，杨敬文，[PDF](books/RL/陈世勇-苏博览-杨敬文-深度强化学习核心算法与应用.pdf) 
 
    <img src="imgs/陈世勇, 苏博览，杨敬文-深度强化学习核心算法与应用_00.png" width = "600" div align=center />
 
@@ -82,11 +82,11 @@
 
    <img src="imgs/威宁, 赵地-强化学习_00.png" width = "600" div align=center />
 
-10. 《强化学习》邹伟, 鬲玲, 刘昱杓，[PDF](books/RL/邹伟, 鬲玲, 刘昱杓-强化学习.pdf) 
+10. 《强化学习》邹伟, 鬲玲, 刘昱杓，[PDF](books/RL/邹伟-鬲玲-刘昱杓-强化学习.pdf) 
 
     <img src="imgs/28551672-3_u_8.jpg" width = "600" div align=center />
 
-11. 《强化学习入门：从原理到实践.pdf》叶强, 闫维新, 黎斌，[PDF](books/RL/叶强, 闫维新, 黎斌-强化学习入门：从原理到实践.pdf) 
+11. 《强化学习入门：从原理到实践.pdf》叶强, 闫维新, 黎斌，[PDF](books/RL/叶强-闫维新-黎斌-强化学习入门_从原理到实践.pdf) 
 
     <img src="imgs/叶强, 闫维新, 黎斌-强化学习入门：从原理到实践_00.png" width = "600" div align=center />
 
