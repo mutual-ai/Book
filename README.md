@@ -66,7 +66,7 @@
 
 5. <img src="imgs/EasyRL_v.1.0.4_00.png" width = "600" div align=center />
 
-6. 《深入浅出强化学习：原理入门》郭宪 方勇纯，[PDF](books/RL/郭宪 方勇纯-深入浅出强化学习：原理入门.pdf) 
+6. 《深入浅出强化学习：原理入门》郭宪 方勇纯，[PDF](books/RL/郭宪-方勇纯-深入浅出强化学习：原理入门.pdf) 
 
    <img src="imgs/郭宪 方勇纯-深入浅出强化学习：原理入门_00.png" width = "600" div align=center />
 
