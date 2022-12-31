@@ -6,7 +6,7 @@
 
 ### 1.1 机器学习
 
-1. 《机器学习》（又名《西瓜书》）周志华，[PDF]("books/ML/周志华-机器学习 Machine Learning.pdf")
+1. 《机器学习》（又名《西瓜书》）周志华，[PDF](books/ML/周志华-机器学习 Machine Learning.pdf)
 
    <img src="imgs/西瓜书.jpg" width = "600" div align=center />
 
